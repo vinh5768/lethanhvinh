@@ -4,8 +4,7 @@ dong 3 may tinh 1
 
 dong 2 may tinh 2
 
-<<<<<<< HEAD
 dong 5 may tinh 1
-=======
+
 dong 4 may tinh 2
->>>>>>> 6250204b8a2f87c3fca28e2b60f46c459febfda0
+
